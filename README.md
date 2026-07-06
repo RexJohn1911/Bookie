@@ -1,4 +1,4 @@
-# 🍿 CinemaBook — Movie Ticket Booking System
+# 🍿 Bookie — Movie Ticket Booking System
 
 A full-stack web application for browsing movies, selecting shows, booking seats, and managing cinema operations via an admin panel.
 
