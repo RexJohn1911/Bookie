@@ -1,0 +1,15 @@
+# Java/Maven
+backend/target/
+backend/.idea/
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# React/Node
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# OS files
+.DS_Store
+*.log
